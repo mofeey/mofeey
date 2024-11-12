@@ -5,7 +5,7 @@
   <a href="https://t.me/Mofeey">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:kiselovtimofej@gmail.com">
+  <a href="mailto:kesya123321@gmail.com">
     <img src="https://img.shields.io/badge/@email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
