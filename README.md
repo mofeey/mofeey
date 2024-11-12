@@ -12,7 +12,7 @@
 
 <h1 align="center">
   
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> `I'm Timofey!`
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> `I'm Timofey!`
   
 </h1>
 
@@ -20,10 +20,17 @@
 
 ## :man_technologist: About Me :
 
-I am a Frontend Developer
+I am a Frontend Developer from Ukraine!
 
 :mag_right: I’m actively seeking a trainee frontend developer position.
 
-:office: Ready to work onsite and open to relocating.
+:office: Ready to work onsite and open to `relocating`.
 
 :bulb: Open to all opportunities and offers.
+
+### :hammer_and_wrench: My stack for now:
+<div>
+  
+  `HTML5` `CSS3` `JavaScript (ES6)` `BEM` `SCSS` `Swiper` `Fancybox` `AOS`
+  
+</div>
