@@ -31,6 +31,6 @@ I am a Frontend Developer from Ukraine!
 ### :hammer_and_wrench: My stack for now:
 <div>
   
-  `HTML5` `CSS3` `JavaScript (ES6)` `BEM` `SCSS` `Swiper` `Fancybox` `AOS`
+  `HTML5` `CSS3` `JavaScript (ES6)` `BEM` `SCSS` `Swiper` `Fancybox` `AOS` `Gulp`
   
 </div>
