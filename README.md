@@ -20,7 +20,9 @@
 
 ## :man_technologist: About Me :
 
-I am a Frontend Developer from Ukraine!
+I am a Frontend Developer from Ukraine! 
+
+Age: 21 years old ✅
 
 :mag_right: I’m actively seeking a trainee frontend developer position.
 
