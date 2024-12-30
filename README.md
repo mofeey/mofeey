@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="200"/>
+  <a href="https://t.me/Mofeey">
+    <img src="https://media.giphy.com/media/VGcVZyreAU2UewDI81/giphy.gif" width="200"/>
+  </a>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Mofeey">
